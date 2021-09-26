@@ -5,6 +5,7 @@ Desafio processo seletivo de estágio SUPERA
 #Para executar execute o comando 'npm install .'.
 
 ###Não encontrei uma forma interessante de colocar um cadastro de locais no APP.
+
 ###Então no banco já estão cadastrados alguns locais
 ###E pode ser feitos mais cadastrados no endpoint POST(http://localhost:8686/places/)
 ###Passando um JSON com os dados "NAME","CITY","INTERVAL","OPEN_TIME","CLOSE_TIME"
